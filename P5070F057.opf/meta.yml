@@ -1,0 +1,19 @@
+id: P5070F057
+initial_creation_type: input
+source_metadata:
+  title: Benefits Series
+  language: fr
+  description: 'Texts on the benefits (phan yon) to be derived from different forms
+    of practice or virtuous activity:'
+  volume:
+    b599d34720dc4b85bfc0594146807b8f:
+      title: The Benefits of Saving Lives
+      parent: Saving Lives
+    208d0de867ac4a2f806538fc2fab4fc3:
+      title: The Concise Benefits of the Festival of the Tenth Day
+      parent: Tenth Day Practice
+    c44436c02dec4ee4adaf7fe9268f2199:
+      title: The Benefits of the Vajra Guru Mantra and an Explanation of Its Syllables
+      parent: Vajra Guru Mantra
+created_at: '2022-03-01T02:56:51.036075'
+last_modified_at: '2022-03-01T02:56:51.036077'
